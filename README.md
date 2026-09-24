@@ -166,4 +166,4 @@ This was a group university project. The repository is presented as a portfolio-
 
 This project was completed as part of the DISS laboratory at TU Hamburg.
 
-The original course repository, university templates and course materials, compiled dependencies, student identifiers, and original Git history are intentionally excluded from this repository.
+This repository presents a portfolio-oriented extract of the robotics work developed during the DISS laboratory at TU Hamburg.

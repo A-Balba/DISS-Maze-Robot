@@ -1,0 +1,22 @@
+# Java build output
+*.class
+bin/
+build/
+out/
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs / temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Archives / generated binaries
+*.jar
+*.zip

@@ -128,23 +128,25 @@ The final navigation implementation also incorporates color-based target and hin
 src/
 └── de/tuhh/diss/
     ├── lab3/
-    │   ├── Sensor processing
-    │   ├── Color sensing
-    │   ├── Ultrasonic sensing
-    │   └── Filtering
+    │   ├── ColorSensor.java
+    │   ├── DreadedColorSensor.java
+    │   ├── TunableEwmaLowpassFilter.java
+    │   ├── TunableFilter.java
+    │   ├── TunableMedianFilter.java
+    │   ├── UltrasonicSensor.java
+    │   └── WallApproach.java
     │
     ├── lab4/
-    │   ├── Gyroscope turning
-    │   ├── Proportional turning
-    │   └── Turning tests
+    │   ├── GyroTurning.java
+    │   ├── ProportionalTturning.java
+    │   ├── ProportionalTurning.java
+    │   ├── SimpleTurning.java
+    │   ├── TurnerInterface.java
+    │   └── TurningTest.java
     │
     └── lab5/
-        ├── Maze navigation
-        ├── Coordinate tracking
-        ├── Color actions
-        ├── Backtracking
-        └── Navigation tests
-```
+        ├── Final.java
+        └── MazeEscape.java
 
 ## My Contribution
 

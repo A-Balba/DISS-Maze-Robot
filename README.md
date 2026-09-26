@@ -147,7 +147,7 @@ src/
     └── lab5/
         ├── Final.java
         └── MazeEscape.java
-
+```
 ## My Contribution
 
 I developed and integrated Java components for sensor processing, motion control, robot orientation, coordinate tracking, and autonomous maze navigation.

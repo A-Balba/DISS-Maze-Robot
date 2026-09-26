@@ -108,6 +108,16 @@ At each position, the robot:
 
 The final navigation implementation also incorporates color-based target and hint actions.
 
+## Demonstration
+
+### Simulation
+
+[▶️ Watch the maze-navigation simulation](https://drive.google.com/file/d/1g0z_MDHx7s1q32Lw14V-N_PaTRq7_wQD/view?usp=drive_link)
+
+### Real Robot
+
+[▶️ Watch the robot navigating the maze](https://drive.google.com/file/d/1zLNMg9tyaz0h2-f6Lqw3xn-QgcWIouZA/view?usp=drive_link)
+
 ## Hardware
 
 - LEGO Mindstorms EV3
